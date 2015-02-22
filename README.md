@@ -1,6 +1,7 @@
 # cleaning-data
 # Coursera project
--> This is centered Text <-
+
+->THIS TEXT IS IN THE CENTER!<- 
 -> This is my submission to the Coursera project of Getting and Cleaning Data <-
 
 There is only one R script and it is very straightforward Extract, Transform and Load (an ETL classic process).
